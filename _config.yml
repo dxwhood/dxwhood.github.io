@@ -23,7 +23,7 @@ email: damien.hood@carleton.ca
 author: Damien X. Hood
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to my site! Here you can find my info, projects, posts, and more AI and computing related things.
-baseurl: "/dxwhood.github.io" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://dxwhood.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 header_pages:
   - aboutMe.md
