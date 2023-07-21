@@ -58,7 +58,7 @@ plugins:
 #   - vendor/ruby/
 
 minima:
-  skin: solarized
+  skin: auto
 
   # Generate social links in footer.
   social_links:
